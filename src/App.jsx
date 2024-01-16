@@ -2,6 +2,7 @@ import React from "react";
 import { BrowserRouter, Route, Routes, useNavigate } from "react-router-dom";
 import Accordian from "./Accordian/Accordian";
 import Home from "./Home/Home";
+import "./App.css";
 
 export default function App() {
   return (
